@@ -6,6 +6,12 @@ Eine kurze, christlich geprägte Hilfe bei Suchtdruck und belastenden Verhaltens
 
 Öffentlich und ohne Login erreichbar: https://roruffm.github.io/Anker-sofort/
 
+## Oberfläche und Ablauf
+
+Helles Türkisdesign mit optionaler Nachtansicht. Die feste Navigation führt zu **Jetzt**, **Mein Plan**, **Rückblick** und **Kontakt**. Auf der Startseite steht die Soforthilfe im Mittelpunkt; weitere Einstiege liegen unter „Andere Situation wählen“.
+
+Die geführte Pause zeigt jeweils einen überschaubaren Schritt. Zusätzliche Erklärungen, Gebete und Planfelder lassen sich gezielt aufklappen. Beim Öffnen anderer Bereiche bleiben eine laufende Pause und ihre Wartezeit erhalten. Die bestehenden Speicherformate für persönliche Pläne und Inhaltsvorlieben bleiben kompatibel.
+
 ## GitHub Pages
 
 Unter [Settings → Pages](https://github.com/roruffm/Anker-sofort/settings/pages) als Quelle **Deploy from a branch**, Branch **main** und Ordner **/(root)** auswählen und speichern.
