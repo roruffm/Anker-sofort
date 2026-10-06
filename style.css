@@ -243,3 +243,7 @@ h1,h2,.choice,.large-prayer,.single-task { overflow-wrap:anywhere; }
 #reviewDialog { max-width:620px; }
 #resistDialog .personal-card p { margin-top:16px; margin-bottom:0; }
 #reviewPreview p { margin-bottom:0; }
+
+/* Optional context stays compact beside the immediate entry. */
+.profile-picker{margin:24px 0;padding:18px 20px;border:1px solid var(--line,#304149);border-radius:16px;background:rgba(255,255,255,.025)}
+.profile-picker label{display:flex;justify-content:space-between;gap:12px;margin-top:0}.profile-picker p{margin:9px 0 0}.profile-picker select{width:100%;min-width:0}.behavior-barrier{margin-bottom:20px}
